@@ -20,7 +20,7 @@ const LATITUDE_DELTA = 0.0922;
 const LONGITUDE_DELTA = LATITUDE_DELTA * ASPECT_RATIO;
 import { AntDesign } from "@expo/vector-icons";
 
-const GOOGLE_MAPS_APIKEY = "AIzaSyDQ0NKHCmrvpVn4zwOezzNVxwJakPqPW48";
+const GOOGLE_MAPS_APIKEY = "AIzaSyA3FzKFHiA7bUcmOaubinG6wqCZt8Dw7Yk";
 
 class Track extends Component {
   constructor(props) {
